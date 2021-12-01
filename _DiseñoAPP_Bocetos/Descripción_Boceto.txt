@@ -1,0 +1,1 @@
+Carpeta para las subidas de bocetos del diseño de la aplicación en Android.
