@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(){
+	printf("Hola mundo");
+	return 0;
+}
+
+git pull -remase origin main		//actualizacion de rama en local fearch y mearch
